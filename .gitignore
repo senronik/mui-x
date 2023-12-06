@@ -22,3 +22,7 @@ size-snapshot.json
 performance-snapshot.json
 .github/styles/Google
 .github/styles/write-good
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
